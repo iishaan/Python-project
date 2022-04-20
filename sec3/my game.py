@@ -1,0 +1,5 @@
+adjective = input("pleas enter an adjective: ")
+noun = input("pleas enter an noun: ")
+verb = input("pleas enter a verb ending with ed : ")
+print("your answer")
+print("the",adjective,noun,verb,"on the lazy dog")    
